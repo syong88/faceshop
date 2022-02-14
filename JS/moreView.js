@@ -1,0 +1,6 @@
+//moreView.js
+$(function(){
+	
+	
+	
+});
